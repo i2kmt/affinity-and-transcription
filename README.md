@@ -16,7 +16,7 @@ Let's separate a p53 mollecule in 3 parts:
 3. C-terminus domain: The C-terminus domain is responsible for the p53's tetramerization
 
 ## p53's DBD
-p53's DBD is `5′-PuPuPuC(A/T)(T/A)GPyPyPy-3′`, where Pu and Py represent purines and pyrimidines, respectively. This is knows as a "Half Site". As mentioned before, p53 acts like a transcription factor in a form of a dimer-of-dimers. This means that 2 p53 proteins bind together into forming a dimer and then two dimers bind together and form a tetramer. Each dimer can bind to a "Half Site". And so, the p53 tetramer's full transcription site is the same as two "Half Site".
+p53's DBD is `5′-PuPuPuC(A/T)(T/A)GPyPyPy-3′`, where Pu and Py represent purines and pyrimidines, respectively. This is knows as a "Half Site". As mentioned before, p53 acts like a transcription factor in a form of a dimer-of-dimers. This means that 2 p53 proteins bind together into forming a dimer and then two dimers bind together and form a tetramer. Each dimer can bind to a "Half Site". And so, the p53 tetramer's full transcription site is the same as two "Half Site".[^2]
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/117028076/211453267-75377ce8-d104-453f-bc64-51aa0d1d0166.png">
@@ -25,3 +25,4 @@ p53's DBD is `5′-PuPuPuC(A/T)(T/A)GPyPyPy-3′`, where Pu and Py represent pur
 ## Synthetic biology study[^1].
 
 [^1]: Inga, A., Storici, F., Darden, T. A., & Resnick, M. A. (2002). Differential transactivation by the p53 transcription factor is highly dependent on p53 level and promoter target sequence. Molecular and cellular biology, 22(24), 8612-8625.
+[^2]: McLure, K. G., & Lee, P. W. (1998). How p53 binds DNA as a tetramer. The EMBO journal, 17(12), 3342-3350.
