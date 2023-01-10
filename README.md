@@ -11,3 +11,8 @@ Let's separate a p53 mollecule in 3 parts:
 2. DNA-Binding-Domain (DBD) (located in the "centre"): This is the most important domain of p53 as a transcription factor. The DBD is responsible for the protein-DNA binding between p53 and a gene's promoter. Like every transcription factor, p53 can "read" and bind to a specific DNA sequence (we will look more into this later on).
 3. C-terminus domain: The C-terminus domain is responsible for the p53's tetramerization
 
+## p53's DBD
+p53's DBD is 5′-PuPuPuC(A/T)(T/A)GPyPyPy-3′, where Pu and Py represent purines and pyrimidines, respectively. This is knows as a "Half Site". As mentioned before, p53 acts like a transcription factor in a form of a dimer-of-dimers. This means that 2 p53 proteins bind together into forming a dimer and then two dimers bind together and form a tetramer. Each dimer can bind to a "Half Site". And so, the p53 tetramer's full transcription site is the same as two "Half Site".
+
+![Pasted image 20221122231547](https://user-images.githubusercontent.com/117028076/211453267-75377ce8-d104-453f-bc64-51aa0d1d0166.png)
+
