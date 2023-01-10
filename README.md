@@ -21,3 +21,7 @@ p53's DBD is `5′-PuPuPuC(A/T)(T/A)GPyPyPy-3′`, where Pu and Py represent pur
 <p align="center">
  <img src="https://user-images.githubusercontent.com/117028076/211453267-75377ce8-d104-453f-bc64-51aa0d1d0166.png">
 </p>
+
+## Synthetic biology study[^1].
+
+[^1]: Inga, A., Storici, F., Darden, T. A., & Resnick, M. A. (2002). Differential transactivation by the p53 transcription factor is highly dependent on p53 level and promoter target sequence. Molecular and cellular biology, 22(24), 8612-8625.
