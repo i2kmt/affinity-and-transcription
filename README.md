@@ -22,7 +22,13 @@ p53's DBD is `5′-PuPuPuC(A/T)(T/A)GPyPyPy-3′`, where Pu and Py represent pur
  <img src="https://user-images.githubusercontent.com/117028076/211453267-75377ce8-d104-453f-bc64-51aa0d1d0166.png">
 </p>
 
+## p53 and transcription
+After reading and studying many articles, I found that in a _first step_, p53 activates transciprtion of genes without interacting with other co-factors. Actually, co-factors get involved in transcription regulation afterwards in order to suppress or amplify it. [^3]
+
 ## Synthetic biology study[^1].
+
 
 [^1]: Inga, A., Storici, F., Darden, T. A., & Resnick, M. A. (2002). Differential transactivation by the p53 transcription factor is highly dependent on p53 level and promoter target sequence. Molecular and cellular biology, 22(24), 8612-8625.
 [^2]: McLure, K. G., & Lee, P. W. (1998). How p53 binds DNA as a tetramer. The EMBO journal, 17(12), 3342-3350.
+[^3]: Verfaillie, A., Svetlichnyy, D., Imrichova, H., Davie, K., Fiers, M., Atak, Z. K., ... & Aerts, S. (2016). Multiplex enhancer-reporter assays uncover unsophisticated TP53 enhancer logic. Genome research, 26(7), 882-895.
+
