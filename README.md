@@ -3,6 +3,8 @@
 Every biology fan knows that the mechanisms behind a gene's transcription setting and regulation are quite complex. A factor that seemed interesting to me was the affinity between the DNA Binding Domain (DBD) of a transcription factor and the DNA promoter sequence of a gene. So, I decided to find a way to investigate it myself.
 After a lot of thought, I looked into TP53 as a transcription factor and how different genes were expressed according to the DBD-promoter affinities.
 
+_in progress_
+
 # TP53's characteristics
 ### Prerequired knowledge on p53
 Now, as transcription is extremely detailed and regulated by many factors, I think it is appropriate to note some basic and important characteristics of the p53 protein. [TP53](https://www.uniprot.org/uniprotkb/P04637/entry) is the main protein who regulates apoptosis (aka cell suicide). Although it regulates other proteins as an enzyme, p53 can also form tetramers (a-dimer-of-dimers) and become a transcription factor.
