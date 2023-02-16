@@ -31,6 +31,11 @@ So my basic question, after learning the things stated above, I thought: "So how
 
 ### The paper
 In the paper that I based my litle project, they used _S. cerevisiae_ cells. By using methods of synthetic biology, they based a p53-dependent promoter behind the ADE2 gene. The ADE2 gene, can cause the colonies of the yeast to change colors from red to pink and to white according to it's expression rate. The number of p53-dependent promoters varied as they contained different promoter sequences of different genes that are targeted normally by p53 in mamalian cells (ex. p21, MDM2, GADD45). The article provides the different sequences that are recognized by p53, and the expression rate of ADE2 that was induced by the different promoters. 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/117028076/219463221-bf82b61c-72b6-42e2-9bb7-579bd2ba532c.png"
+     width="500" 
+     height="333" />
+</p>
 
 # The project
 
