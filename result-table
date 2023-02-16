@@ -1,0 +1,20 @@
+| Gene      | Promoter               | Score     | Relative score | Strand | TP53 seq. | Experimental rank | Affinity rank |
+| --------- | ---------------------- | --------- | -------------- | ------ | --------- | ----------------- | ------------- |
+| PIG3      | CAGCTTGCCCACCCATGCTC   | 10.128636 | 0.83730        | +      | 2         | 18                | 15            |
+| IGF-BP3-A | AAACAAGCCACCAACATGCTT  | **-**     | **-**          |        | **-**     | 17                | 18            |
+| RGC       | GGACTTGCCTGGCCTTGCCT   | 11.504828 | 0.84722        | -      | 3         | 16                | 14            |
+| cFOS      | GGACTTGTCTGAGCGCGTGC   | 8.817308  | 0.82136        | -      | 2         | 15                | 17            |
+| BAX       | AGACAAGCCTGGGCGTGGGC   | 9.629974  | 0.83124        | +      | 3         | 14                | 16            |
+| PA26      | GGACAAGTCTCAACAAGTTC   | 13.602616 | 0.86634        | +      | 3         | 13                | 12            |
+| MDM2      | GGTCAAGTTGGGACACGTCC   | 12.834704 | 0.87019        | -      | 2         | 12                | 13            |
+| NOXA      | AGGCTTGCCCCGGCAAGTTG   | 16.189728 | 0.88993        | -      | 3         | 11                | 9             |
+| Cyclin    | AGGCTTGCCCGGGCAGGTCT   | 16.73818  | 0.89493        | -      | 3         | 10                | 7             |
+| PUMA      | CTGCAAGTCCTGACTTGTCC   | 16.431227 | 0.91390        | +      | 2         | 9                 | 8             |
+| AIP1      | TCTCTTGCCCGGGCTTGTCG   | 15.135793 | 0.89816        | -      | 2         | 8                 | 10            |
+| PCNA      | GAACAAGTCCGGGCATATGT   | 17.172523 | 0.89889        | -      | 3         | 7                 | 6             |
+| 14-3-3 σ   | TAGCATTAGCCCAGACATGTCC | 14.635928 | 0.89208        | +      | 2         | 6                 | 11            |
+| HFAS      | TGGCTTGTCAGGGCTTGTCC   | 17.184814 | 0.92306        | -      | 2         | 5                 | 5             |
+| GADD45    | GAACATGTCTAAGCATGCTG   | 20.14384  | 0.92598        | -      | 3         | 4                 | 3             |
+| m-FAS     | GGGCATGTACAAACATGTCA   | 19.407656 | 0.95008        | +      | 2         | 3                 | 4             |
+| TP53      | TGACATGCCCAGGCATGTCT   | 26.69956  | 0.98575        | +      | 2         | 2                 | 1             |
+| P21       | CAACATGTTGGGACATGTTC   | 22.15398  | 0.94431        | -      | 3         | 1                 | 2             |
