@@ -67,6 +67,8 @@ I gathered all the different gene's promoter sequences that were provided by the
 | TP53      | TGACATGCCCAGGCATGTCT   | 26.69956  | 0.98575        | +      | 2                 | 1             |
 | P21       | CAACATGTTGGGACATGTTC   | 22.15398  | 0.94431        | -      | 1                 | 2             |
 
+### Discussion
+As seen in the table above, the higher the affinity binding of the transcription factor and the DNA, the higher the expression of the following gene. Although, there are some exceptions, which could be explained with the orientation of p53
 [^1]: Inga, A., Storici, F., Darden, T. A., & Resnick, M. A. (2002). Differential transactivation by the p53 transcription factor is highly dependent on p53 level and promoter target sequence. Molecular and cellular biology, 22(24), 8612-8625.
 [^2]: McLure, K. G., & Lee, P. W. (1998). How p53 binds DNA as a tetramer. The EMBO journal, 17(12), 3342-3350.
 [^3]: Verfaillie, A., Svetlichnyy, D., Imrichova, H., Davie, K., Fiers, M., Atak, Z. K., ... & Aerts, S. (2016). Multiplex enhancer-reporter assays uncover unsophisticated TP53 enhancer logic. Genome research, 26(7), 882-895.
